@@ -1809,7 +1809,7 @@
 					position: absolute;
 					top: 0;
 					height: 100%;
-					width: auto;
+					width: 50%;
 				}
 
 			.box.style1 .inner > :last-child {
@@ -1822,7 +1822,6 @@
 
 				.box.style1.right .image img {
 					right: 0;
-					left: 0;
 				}
 
 			.box.style1.right .inner {
