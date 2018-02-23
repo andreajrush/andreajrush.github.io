@@ -1796,8 +1796,7 @@
 		}
 
 			.box.style1 .image {
-				display: flex;
-				align-items: center;
+				display: block;
 				position: absolute;
 				top: 0;
 				width: 50%;
@@ -1823,6 +1822,7 @@
 
 				.box.style1.right .image img {
 					right: 0;
+					left: 0;
 				}
 
 			.box.style1.right .inner {
