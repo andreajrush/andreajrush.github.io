@@ -1797,7 +1797,7 @@
 
 			.box.style1 .image {
 				display: block;
-				position: absolute;
+				position: relative;
 				top: 0;
 				width: 50%;
 				height: 100%;
