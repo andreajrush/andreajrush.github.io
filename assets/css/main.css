@@ -1942,6 +1942,16 @@
 		z-index: -10;
 	}
 
+		#header hero-overlay {
+			position: absolute;
+			background-color: rgba(0,0,0,0.5);
+			top: 0;
+			bottom: 0;
+			height: 100%;
+			width: 100%;
+			z-index: -5;
+		}
+
 		#header header {
 			display: inline-block;
 			padding: 0 0 4.5em 0;
