@@ -1924,6 +1924,9 @@
 		}
 
 /* Header */
+	#preheader {
+		position: absolute;
+	}
 
 	#header {
 		position: relative;
@@ -1939,6 +1942,8 @@
 		top: 0;
 		bottom: 0;
 		height: 100vh;
+		opacity: 0.2;
+		filter: alpha(opacity=20);
 		/*z-index: -10;*/
 	}
 
