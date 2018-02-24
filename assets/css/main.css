@@ -1924,12 +1924,9 @@
 		}
 
 /* Header */
-	#preheader {
-		position: relative;
-	}
 
 	#header {
-		position: absolute;
+		position: relative;
 		color: #fff;
 		text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25);
 		text-align: center;
@@ -1942,8 +1939,6 @@
 		top: 0;
 		bottom: 0;
 		height: 100vh;
-		opacity: 0.2;
-		filter: alpha(opacity=20);
 		/*z-index: -10;*/
 	}
 
