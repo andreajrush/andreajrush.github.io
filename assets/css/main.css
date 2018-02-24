@@ -1936,9 +1936,9 @@
 		background-image: url(https://s3-us-west-1.amazonaws.com/andreajrush.github.io/IMG_8819.jpg);
 		background-size: cover;
 		background-position: center center;
-		top: 0;
+		/*top: 0;
 		bottom: 0;
-		height: 100vh;
+		height: 100vh;*/
 		z-index: -10;
 	}
 
