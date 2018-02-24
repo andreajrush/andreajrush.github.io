@@ -1429,7 +1429,7 @@
 		margin-bottom: 1em;
 	}
 
-	.hero {
+	#hero {
 		background-image: url(https://s3-us-west-1.amazonaws.com/andreajrush.github.io/IMG_8854.jpg);
 		background-size: cover;
 		background-position: center center;
